@@ -1,5 +1,5 @@
 # :no_entry_sign: :rotating_light: :see_no_evil: :scream:  WARNING! SPOILER AHEAD :scream: :see_no_evil: :rotating_light: :no_entry_sign:
-This is my **ANSWER** fork of [js-assessment](https://github.com/rmurphey/js-assessment). So you may see the answers of some tests. If you want try the challenge (you should) and you don't want to be spoilered skip this fork repository and go ahead to [js-assessment](https://github.com/rmurphey/js-assessment).
+This is my **ANSWER** fork of [js-assessment](https://github.com/rmurphey/js-assessment). So you may see the answers of some tests. If you want to try this challenge (you should) and you don't want to be spoilered skip this fork repository and go ahead to [js-assessment](https://github.com/rmurphey/js-assessment).
 
 I warned you. :neutral_face:
 
