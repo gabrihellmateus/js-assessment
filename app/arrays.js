@@ -50,19 +50,39 @@ exports.arraysAnswers = {
     },
 
     prepend: function(arr, item) {
+        arr.unshift(item);
 
+        return arr;
     },
 
     curtail: function(arr) {
+        arr.shift();
 
+        return arr;
     },
 
     concat: function(arr1, arr2) {
+        var newArr = arr1.concat(arr2);
 
+        return newArr;
     },
 
     insert: function(arr, item, index) {
+        var arr1 = [];
+        var arr2 = [];
 
+        for(var i = 0; i < arr.length; i++) {
+            if(arr[i] < arr[index]) {
+                arr1.push(arr[i]);
+            } else {
+                arr2.push(arr[i]);
+            }
+        }
+
+        arr1.push(item);
+        arr = arr1.concat(arr2);
+
+        return arr;
     },
 
     count: function(arr, item) {
