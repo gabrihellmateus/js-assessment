@@ -1,4 +1,6 @@
 # :rotating_light: :see_no_evil: :scream:  WARNING! SPOILER AHEAD :scream: :see_no_evil: :rotating_light:
+
+[![Build Status][https://travis-ci.org/gabrihellmateus/js-assessment.svg?branch=master]
 This is my fork of [js-assessment](https://github.com/rmurphey/js-assessment), so **you may see the ANSWERS** of some tests here. If you want to try this challenge (you should) and you don't want to be spoilered skip this fork repository and go ahead to [js-assessment](https://github.com/rmurphey/js-assessment).
 
 I've warned you.
